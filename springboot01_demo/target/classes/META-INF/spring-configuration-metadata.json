@@ -1,0 +1,59 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.lagou.pojo.Person",
+      "sourceType": "com.lagou.pojo.Person"
+    },
+    {
+      "name": "test",
+      "type": "com.lagou.pojo.MyProperties",
+      "sourceType": "com.lagou.pojo.MyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.family",
+      "type": "java.lang.String[]",
+      "sourceType": "com.lagou.pojo.Person"
+    },
+    {
+      "name": "person.hobby",
+      "type": "java.util.List",
+      "sourceType": "com.lagou.pojo.Person"
+    },
+    {
+      "name": "person.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.lagou.pojo.Person",
+      "defaultValue": 0
+    },
+    {
+      "name": "person.map",
+      "type": "java.util.Map",
+      "sourceType": "com.lagou.pojo.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.lagou.pojo.Person"
+    },
+    {
+      "name": "person.pet",
+      "type": "com.lagou.pojo.Pet",
+      "sourceType": "com.lagou.pojo.Person"
+    },
+    {
+      "name": "test.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.lagou.pojo.MyProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "test.name",
+      "type": "java.lang.String",
+      "sourceType": "com.lagou.pojo.MyProperties"
+    }
+  ],
+  "hints": []
+}

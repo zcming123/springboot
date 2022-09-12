@@ -1,0 +1,9 @@
+com\lagou\Springboot01DemoApplication.class
+com\lagou\config\MyService.class
+com\lagou\controller\HelloController.class
+com\lagou\pojo\MyProperties.class
+com\lagou\pojo\Person.class
+com\lagou\pojo\Student.class
+com\lagou\config\MyConfig.class
+com\lagou\pojo\Pet.class
+META-INF\spring-configuration-metadata.json

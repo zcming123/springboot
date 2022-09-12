@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lagou.springboot01_demo.Springboot01DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.098 s - in com.lagou.springboot01_demo.Springboot01DemoApplicationTests
