@@ -1,0 +1,9 @@
+com\lagou\Springboot03DataApplication.class
+com\lagou\repository\CommentRepository.class
+com\lagou\pojo\Person.class
+com\lagou\pojo\Article.class
+com\lagou\mapper\ArticleMapper.class
+com\lagou\repository\PersonRepository.class
+com\lagou\pojo\Address.class
+com\lagou\pojo\Comment.class
+com\lagou\mapper\CommentMapper.class
